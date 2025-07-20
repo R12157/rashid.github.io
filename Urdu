@@ -1,0 +1,85 @@
+<!DOCTYPE html><html lang="ur" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>اردو نالج سینٹر</title>
+  <style>
+    body {
+      font-family: 'Noto Naskh Arabic', serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      line-height: 1.8;
+    }
+    header {
+      background-color: #007b5e;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      background: #e2e2e2;
+      padding: 0.5rem;
+    }
+    nav a {
+      text-decoration: none;
+      color: #007b5e;
+      font-weight: bold;
+    }
+    section {
+      padding: 1rem;
+    }
+    h2 {
+      color: #007b5e;
+    }
+    .video {
+      margin: 1rem 0;
+    }
+  </style>
+</head>
+<body><header>
+  <h1>اردو نالج سینٹر</h1>
+  <p>خبریں، تعلیم، اسلامی معلومات، ہنر اور صحت – سب ایک جگہ</p>
+</header><nav>
+  <a href="#news">خبریں</a>
+  <a href="#jobs">نوکریاں / تعلیم</a>
+  <a href="#islam">اسلامی معلومات</a>
+  <a href="#health">صحت و علاج</a>
+  <a href="#skills">ہنر سکھانا</a>
+</nav><section id="news">
+  <h2>📢 آج کی اردو خبریں</h2>
+  <p><strong>اہم خبر:</strong> حکومت نے بجٹ 2025 میں تعلیمی شعبے کے لیے فنڈ میں 20% اضافہ کر دیا ہے۔</p>
+  <p><em>تبصرہ:</em> یہ اقدام پاکستان میں تعلیم کے معیار کو بہتر بنانے میں مدد دے سکتا ہے، خاص طور پر دیہی علاقوں میں۔</p>
+</section><section id="jobs">
+  <h2>🎓 تعلیم اور سرکاری نوکریاں</h2>
+  <ul>
+    <li>پنجاب پولیس میں 5000 نئی آسامیاں – اپلائی کی آخری تاریخ: 31 جولائی</li>
+    <li>HEC اسکالرشپ 2025 – آن لائن اپلائی کا لنک: <a href="https://hec.gov.pk" target="_blank">hec.gov.pk</a></li>
+  </ul>
+</section><section id="islam">
+  <h2>🕌 اسلامی معلومات</h2>
+  <p>حضرت محمد ﷺ نے فرمایا: "علم حاصل کرنا ہر مسلمان مرد اور عورت پر فرض ہے۔"</p>
+  <p>سورۃ الکہف جمعہ کے دن پڑھنے کی فضیلت بہت زیادہ ہے، یہ روشنی عطا کرتی ہے اگلے جمعے تک۔</p>
+</section><section id="health">
+  <h2>🍋 صحت اور دیسی علاج</h2>
+  <ul>
+    <li>نزلہ زکام کے لیے: شہد + ادرک کا قہوہ پئیں، دن میں 2 بار</li>
+    <li>پھٹکری اور نیم کا پانی دانتوں کی صفائی اور بدبو کے لیے بہترین</li>
+  </ul>
+</section><section id="skills">
+  <h2>🧠 Skills – Learn in English</h2>
+  <p><strong>Topic:</strong> How to Make a CV for Jobs</p>
+  <ol>
+    <li>Start with your name and contact info</li>
+    <li>Write a short objective (2-3 lines)</li>
+    <li>Add education, experience, and skills</li>
+    <li>Keep it simple and professional</li>
+  </ol>
+  <div class="video">
+    <iframe width="300" height="180" src="https://www.youtube.com/embed/OJJ7STm2WIo" title="CV Making in Urdu" frameborder="0" allowfullscreen></iframe>
+  </div>
+</section></body>
+</html>
